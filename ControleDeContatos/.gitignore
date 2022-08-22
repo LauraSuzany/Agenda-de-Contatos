@@ -1,0 +1,7 @@
+properties
+obj
+bin
+wwwroot
+appsettings.Development.json
+appsettings.json
+ControleDeContatos.csproj.user
