@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Um teste criado para aplicar conhecimentos em api api full stack</h2>
+<h2 align="center">Um teste criado para aplicar conhecimentos em api full stack</h2>
 <h1 align="center"> Agenda de contatos </h1> 
 
 <div align="center">
