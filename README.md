@@ -1,6 +1,4 @@
 
-
-
 <h2 align="center">Criado para aplicar conhecimentos #<i>fullstack</i></h2>
 <h1 align="center"> Agenda de contatos </h1> 
 
